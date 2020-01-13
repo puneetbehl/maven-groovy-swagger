@@ -194,6 +194,10 @@
                   <name>groovy.parameters</name>
                   <value>true</value>
                 </property>
+                <property>
+                  <name>micronaut.openapi.views.spec</name>
+                  <value>rapidoc.enabled=true,swagger-ui.enabled=true,swagger-ui.theme=flattop</value>
+                </property>
               </properties>
             </configuration>
           </execution>
